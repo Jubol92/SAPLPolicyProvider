@@ -1,9 +1,9 @@
 package com.xjkwak.keycloak.extensions.rest.policy;
 
 import org.jboss.logging.Logger;
-import org.keycloak.representations.idm.authorization.GroupPolicyRepresentation;
+import org.keycloak.representations.idm.authorization.JSPolicyRepresentation;
 
-public class CustomPolicyRepresentation extends GroupPolicyRepresentation {
+public class CustomPolicyRepresentation extends JSPolicyRepresentation {
     private static final Logger log = Logger.getLogger(CustomPolicyRepresentation.class);
 
     public CustomPolicyRepresentation() {
