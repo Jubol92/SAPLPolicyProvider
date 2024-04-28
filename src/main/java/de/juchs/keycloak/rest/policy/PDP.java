@@ -1,4 +1,4 @@
-package com.xjkwak.keycloak.extensions.rest.policy;
+package de.juchs.keycloak.rest.policy;
 
 import java.io.File;
 import java.io.IOException;

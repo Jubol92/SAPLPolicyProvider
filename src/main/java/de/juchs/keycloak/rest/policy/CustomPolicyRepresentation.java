@@ -1,4 +1,4 @@
-package com.xjkwak.keycloak.extensions.rest.policy;
+package de.juchs.keycloak.rest.policy;
 
 import org.jboss.logging.Logger;
 import org.keycloak.representations.idm.authorization.JSPolicyRepresentation;

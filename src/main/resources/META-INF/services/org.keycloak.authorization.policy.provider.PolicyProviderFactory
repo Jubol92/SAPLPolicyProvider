@@ -1,1 +1,1 @@
-com.xjkwak.keycloak.extensions.rest.policy.CustomPolicyProviderFactory
+de.juchs.keycloak.rest.policy.CustomPolicyProviderFactory
